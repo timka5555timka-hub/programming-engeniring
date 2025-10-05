@@ -1,0 +1,11 @@
+def main(**kwargs):
+    # Функция работает с аргументами **kwargs
+    for i, j in kwargs.items():
+        print(f"{i}. Mean = {mean(j)}")
+
+def mean(data):
+    # Функция считает среднее арифметическое
+    return sum(data) / float(len(data))
+
+if __name__ == '__main__':
+    main(x=[1, 2, 3], y=[3, 0])
