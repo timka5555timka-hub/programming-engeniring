@@ -58,7 +58,7 @@ pprint(result)
 ```
 ### Результат.
 
-![Меню](<img width="744" height="95" alt="image" src="https://github.com/user-attachments/assets/157d6286-6769-49dd-bf22-60e8e3d9f510" />
+![Меню](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_6/pic/lab6_2.png?raw=true
 )
 
 
