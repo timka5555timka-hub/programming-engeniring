@@ -73,7 +73,7 @@ icecream3.composition()
 
 ### Результат
 Программа проверяет тип параметра и принимает только строковые значения как топпинг.
-[](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/lab2.png?raw=true)
+![](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/lab2.png?raw=true)
 # Лабораторная работа 3
 ## Инкапсуляция с геттером, сеттером и деструктором
 
@@ -111,7 +111,7 @@ obj.del_value()
 
 ### Результат
 Демонстрирует использование геттера, сеттера, деструктора и property.
-[](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/lab3.png?raw=true)
+![](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/lab3.png?raw=true)
 # Лабораторная работа 4
 ## Наследование - Млекопитающие, Кошки, Собаки
 
@@ -160,7 +160,7 @@ cat.meow()
 
 ### Результат
 Демонстрирует наследование классов и доступ к методам родительского класса.
-
+![](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/lab4.png?raw=true)
 # Лабораторная работа 5
 ## Полиморфизм - Приветствия на разных языках
 
@@ -197,7 +197,7 @@ English.greeting()
 
 ### Результат
 Полиморфизм позволяет использовать одну функцию `greet()` для разных классов.
-
+![](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/lab5.png?raw=true)
 # Самостоятельная работа 1
 ## Садовник и помидоры - Полная ООП система
 
