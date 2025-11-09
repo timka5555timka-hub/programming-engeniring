@@ -302,4 +302,4 @@ if __name__ == '__main__':
 
 ### Результат
 Комплексная программа, демонстрирующая все принципы ООП: инкапсуляцию, наследование и полиморфизм.
-![Скриншот](https://github.com//timka5555timka-hub/programming-engeniring/blob/tema_9/pic/sam1.png)
+![Скриншот](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/sam1.png?raw=true)
