@@ -40,7 +40,7 @@ except AttributeError as e:
 
 ### Результат
 Демонстрирует использование `__slots__` для ограничения атрибутов класса.
-
+![Sreen](https://github.com/timka5555timka-hub/programming-engeniring/blob/tema_9/pic/lab1.png?raw=true)
 # Лабораторная работа 2
 ## Класс мороженого с проверкой топпинга
 
